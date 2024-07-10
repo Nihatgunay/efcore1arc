@@ -8,7 +8,7 @@ public class StudentTeacherConfiguration : IEntityTypeConfiguration<StudentTeach
 {
     public void Configure(EntityTypeBuilder<StudentTeacher> builder)
     {
-        builder.HasKey(st => new { st.StudentId, st.TeacherId });
+        builder.HasKey(st => new { st.StudentId, st.TeacherId }); //stack overflow//
         builder.HasOne(x => x.Student).WithMany(x => x.StudentsTeachers);    
         builder.HasOne(x => x.Teacher).WithMany(x => x.StudentsTeachers);
     }
