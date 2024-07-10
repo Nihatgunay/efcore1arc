@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\bin\Debug\net8.0\EFcoreProject1Business.deps.json
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\bin\Debug\net8.0\EFcoreProject1Business.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\bin\Debug\net8.0\EFcoreProject1Business.pdb
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcoreProject1Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcoreProject1Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcoreProject1Business.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcoreProject1Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcoreProject1Business.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\refint\EFcoreProject1Business.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcoreProject1Business.pdb
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\ref\EFcoreProject1Business.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\bin\Debug\net8.0\EFcoreProject1Core.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\bin\Debug\net8.0\EFcoreProject1Data.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\bin\Debug\net8.0\EFcoreProject1Data.pdb
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\bin\Debug\net8.0\EFcoreProject1Core.pdb
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcoreProject1Business.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Business\obj\Debug\net8.0\EFcorePr.42AAD4DE.Up2Date

@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C9149A-4222-4B02-A9BF-2E0DBFF4B316}|EFcoreProject1Business\\EFcoreProject1Business.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1business\\implementations\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C9149A-4222-4B02-A9BF-2E0DBFF4B316}|EFcoreProject1Business\\EFcoreProject1Business.csproj|solutionrelative:efcoreproject1business\\implementations\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C9149A-4222-4B02-A9BF-2E0DBFF4B316}|EFcoreProject1Business\\EFcoreProject1Business.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1business\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C9149A-4222-4B02-A9BF-2E0DBFF4B316}|EFcoreProject1Business\\EFcoreProject1Business.csproj|solutionrelative:efcoreproject1business\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|solutionrelative:efcoreproject1data\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|solutionrelative:efcoreproject1data\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1data\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|solutionrelative:efcoreproject1data\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1data\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|solutionrelative:efcoreproject1data\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\repositories\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\repositories\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\configuration\\studentteacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\configuration\\studentteacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\models\\studentteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\models\\studentteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|solutionrelative:efcoreproject1data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\configuration\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\configuration\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\models\\idname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\models\\idname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1core\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891EEA6B-35DC-4568-B9C2-7616E3A339D2}|EFcoreProject1Core\\EFcoreProject1Core.csproj|solutionrelative:efcoreproject1core\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376CA074-AFF7-458D-B467-4D3F857B897F}|EFcoreProject1UI\\EFcoreProject1UI.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376CA074-AFF7-458D-B467-4D3F857B897F}|EFcoreProject1UI\\EFcoreProject1UI.csproj|solutionrelative:efcoreproject1ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|c:\\users\\lenovo\\source\\repos\\efcoreproject1\\efcoreproject1data\\migrations\\20240710072113_teacstu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA11090-BFAF-4943-8901-18FFF4E8D05C}|EFcoreProject1Data\\EFcoreProject1Data.csproj|solutionrelative:efcoreproject1data\\migrations\\20240710072113_teacstu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Business\\Implementations\\TeacherService.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Business\\Implementations\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Business\\Implementations\\TeacherService.cs",
+              "RelativeToolTip": "EFcoreProject1Business\\Implementations\\TeacherService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwCEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:01:24.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Business\\Interfaces\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Business\\Interfaces\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Business\\Interfaces\\ITeacherService.cs",
+              "RelativeToolTip": "EFcoreProject1Business\\Interfaces\\ITeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:59:09.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Data\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Data\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:55:51.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Data\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Data\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:55:33.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Repositories\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\ITeacherRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Repositories\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:54:56.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Data\\Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Data\\Repositories\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:53:31.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Data\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Data\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:31:06.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:29:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Repositories\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\ICourseRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Repositories\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:29:10.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:24:00.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240710072113_teacStu.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Migrations\\20240710072113_teacStu.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Data\\Migrations\\20240710072113_teacStu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\Migrations\\20240710072113_teacStu.cs",
+              "RelativeToolTip": "EFcoreProject1Data\\Migrations\\20240710072113_teacStu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:21:14.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentTeacherConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\StudentTeacherConfiguration.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Configuration\\StudentTeacherConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\StudentTeacherConfiguration.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Configuration\\StudentTeacherConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:19:13.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Configuration\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\CourseConfiguration.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Configuration\\CourseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:23:03.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\TeacherConfiguration.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Configuration\\TeacherConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\TeacherConfiguration.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Configuration\\TeacherConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:19:25.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Configuration\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Configuration\\StudentConfiguration.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Configuration\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:07:29.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Data\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Data\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "EFcoreProject1Data\\DAL\\AppDBContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:58:49.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IdName.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\IdName.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Models\\IdName.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\IdName.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Models\\IdName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:50:16.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\StudentTeacher.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Models\\StudentTeacher.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\StudentTeacher.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Models\\StudentTeacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:49:06.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\Course.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:47:19.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\Teacher.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:46:58.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1Core\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1Core\\Models\\Student.cs",
+              "RelativeToolTip": "EFcoreProject1Core\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:46:50.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1UI\\Program.cs",
+              "RelativeDocumentMoniker": "EFcoreProject1UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoreProject1\\EFcoreProject1UI\\Program.cs",
+              "RelativeToolTip": "EFcoreProject1UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:40:30.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\bin\Debug\net8.0\EFcoreProject1Core.deps.json
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\bin\Debug\net8.0\EFcoreProject1Core.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\bin\Debug\net8.0\EFcoreProject1Core.pdb
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\refint\EFcoreProject1Core.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.pdb
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\ref\EFcoreProject1Core.dll
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\bin\Debug\net8.0\EFcoreProject1Core.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EFcoreProject1\EFcoreProject1Core\obj\Debug\net8.0\EFcoreProject1Core.genruntimeconfig.cache
